@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mohd Waseeq Zafar</h1>
 
-<p align="center">A passionate Backend Developer || Cloud Enthusiast || Tech Explorer from India 🇮🇳</p>
+<p align="center" style="font-size:18px;">A passionate Backend Developer || Cloud Enthusiast || Tech Explorer from India 🇮🇳</p>
 
-<p align="center">📩 <strong>Email Me:</strong> ✉️ waseeqzafar04@gmail.com — for collaboration, projects, or just to say hi! 😊</p>
+<p align="center" style="font-size:18px;">📩 <strong>Email Me:</strong> ✉️ waseeqzafar04@gmail.com — for collaboration, projects, or just to say hi! 😊</p>
+
 
 
 ---
@@ -26,6 +27,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waseeqzafar04@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/waseeq_zf?t=KmdGCUrWAMXB0zbUcO4sRQ&s=09)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Waseeq_04/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-waseeq.vercel.app/)
 
 <!-- Snake Game Repo View -->
 
