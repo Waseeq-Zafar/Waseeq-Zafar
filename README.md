@@ -5,14 +5,15 @@
 
 ---
 
-- 🔭 ** I’m currently working on: SWENS – a microservices-based workflow and notification engine.
-- 🌱 **I’m currently learning:** Advanced Spring Boot, scalable backend architectures, and real-time communication systems  
-- 👯 **I’m looking to collaborate on:** Innovative full-stack or backend-heavy projects that solve real-world problems  
-- 🤔 **I’m looking for help with:** Building highly scalable systems and integrating WebSockets efficiently  
-- 💬 **Ask me about:** Spring Boot, REST APIs, MongoDB, system design, or project collaboration  
-- 📫 **How to reach me:** waseeqzafar04@gmail.com  
+- 🔭 **Currently working on:** SWENS – a microservices-based workflow and notification engine  
+- 🌱 **Learning:** Advanced Spring Boot, scalable systems, and real-time communication  
+- 👯 **Looking to collaborate on:** Full-stack or backend projects with real-world impact  
+- 🤔 **Need help with:** Building scalable systems and WebSocket integration  
+- 💬 **Ask me about:** Spring Boot, REST APIs, MongoDB, or system design  
+- 📫 **Reach me at:** waseeqzafar04@gmail.com  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I treat system design diagrams like art — and yes, I debug in my sleep sometimes
+- ⚡ **Fun fact:** I sketch system designs like art and sometimes debug in my sleep
+
 
 ---
 
