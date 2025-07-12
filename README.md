@@ -1,7 +1,9 @@
-# 💫 Hi 👋, I'm Mohd Waseeq Zafar  
-**A passionate Backend Developer || Cloud Enthusiast || Tech Explorer from India 🇮🇳**
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mohd Waseeq Zafar</h1>
 
-📩 **Email Me:** ✉️ waseeqzafar04@gmail.com — for collaboration, projects, or just to say hi! 😊
+<p align="center">A passionate Backend Developer || Cloud Enthusiast || Tech Explorer from India 🇮🇳</p>
+
+<p align="center">📩 <strong>Email Me:</strong> ✉️ waseeqzafar04@gmail.com — for collaboration, projects, or just to say hi! 😊</p>
+
 
 ---
 
