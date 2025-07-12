@@ -23,6 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-waseeq-zafar) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waseeqzafar04@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Waseeq_04/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/waseeq_zf?t=KmdGCUrWAMXB0zbUcO4sRQ&s=09)
 
 <!-- Snake Game Repo View -->
 
