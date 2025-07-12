@@ -12,7 +12,7 @@
 - 💬 **Ask me about:** Spring Boot, REST APIs, MongoDB, or system design  
 - 📫 **Reach me at:** waseeqzafar04@gmail.com  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I sketch system designs like art and sometimes debug in my sleep
+- ⚡ **Fun fact:** I'm a backend dev who occasionally dabbles in frontend just to remember why I love backend
 
 
 ---
