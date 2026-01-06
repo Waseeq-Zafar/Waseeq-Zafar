@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mohd Waseeq Zafar</h1>
 
-<p align="center" style="font-size:18px;">A passionate Backend Developer || Cloud Enthusiast || Tech Explorer from India 🇮🇳</p>
+<p align="center" style="font-size:18px;">Salesforce Developer Intern @ BFHL || A passionate Backend Developer || Cloud Enthusiast || Tech Explorer from India 🇮🇳</p>
 
 <p align="center" style="font-size:18px;">📩 <strong>Email Me:</strong> ✉️ waseeqzafar04@gmail.com — for collaboration, projects, or just to say hi! 😊</p>
 
